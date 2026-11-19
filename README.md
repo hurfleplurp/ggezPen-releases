@@ -17,7 +17,7 @@ plane in time with the music.
 **Requirements:** 64-bit Windows 10 or 11 and an OpenGL 3.3-capable graphics
 driver. Download the executable and run it; you don't need to install a separate
 runtime. Mouse and pressure-sensitive drawing tablets are supported. You can import
-MP3 or WAV songs from inside the game; charts are generated locally.
+Opus, MP3, or WAV songs from inside the game; charts are generated locally.
 
 **Online leaderboards:** choose a handle and tick **Online** in song select to
 automatically submit completed official-track runs to [ezpen.ink](https://ezpen.ink/leaderboard).

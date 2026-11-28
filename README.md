@@ -21,8 +21,9 @@ Opus, MP3, or WAV songs from inside the game; charts are generated locally.
 
 **Online leaderboards:** choose a handle and tick **Online** in song select to
 automatically submit completed official-track runs to [ezpen.ink](https://ezpen.ink/leaderboard).
-No account is required. Score submission is off by default; anonymous server
-notices refresh every minute, including update reminders.
+No account is required. Score submission and server notice polling are off by
+default; when Online is enabled, anonymous server notices refresh every minute,
+including update reminders.
 
 Windows may display a reputation warning for a newly downloaded executable.
 Only obtain builds from these official releases.
